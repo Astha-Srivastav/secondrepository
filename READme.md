@@ -1,3 +1,5 @@
 #This my second repository...
 The used image is :
-https://github.com/Astha-Srivastav/Static-website-project/blob/89df7563637d2b927ab5235a37891b0ff3708028/fruits.jpg
+![abhinav-anand-Wtbjeo8i9XY-unsplash](https://github.com/user-attachments/assets/43feae7d-66be-4710-8566-a55c1d60c3b7)
+
+credits-abhinav anand unsplash for image
