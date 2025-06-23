@@ -1,3 +1,3 @@
 #This my second repository...
-Helloo pppeopleee
-Helloo nono
+The used image is :
+https://github.com/Astha-Srivastav/Static-website-project/blob/89df7563637d2b927ab5235a37891b0ff3708028/fruits.jpg
